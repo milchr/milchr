@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## :computer: I’m currently learning
+* ASP.NET Core Blazor
+* Java Spring Framework
+* Angular
+
 <!--
 **milchr/milchr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
