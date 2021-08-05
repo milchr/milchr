@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## :computer: I’m currently learning
-* ASP.NET Core Blazor
 * Java Spring Framework
 * Angular
 
