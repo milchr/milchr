@@ -1,8 +1,12 @@
-# Hi there 👋
+## Hi there 👋
+I am a Software Engineer from Gdańsk, Poland.
+## :computer: Technical skills:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,docker,kafka,postgres)](https://skillicons.dev)
 
-## :computer: I’m currently learning
-* Java Spring Framework
-* Angular
+## Contact:
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/milosz-chrzaszcz/)
+
+![](https://komarev.com/ghpvc/?username=milchr&color=lightgrey)
 
 <!--
 **milchr/milchr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
