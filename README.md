@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Software Engineer from Gdańsk, Poland.
 ## :computer: Technical skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,docker,kafka,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,docker,kafka,postgres,cs)]()
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milosz-chrzaszcz/)
